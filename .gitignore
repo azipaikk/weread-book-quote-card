@@ -1,0 +1,12 @@
+# 生成的成品和中间数据：含封面图和书摘文字，属于第三方内容，不要提交
+weread_cards/
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+
+# 任何可能放 Key 的文件
+.env
+*.key
